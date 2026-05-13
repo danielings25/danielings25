@@ -1,7 +1,9 @@
 # Hi there 👋
 
 :computer: **Analista de Datos en Prisa Depot**
+
 :oncoming_automobile: **Fan de los autos y la F1**
+
 :family: **Padre de Nicolás**
 
 ## Vias de Contacto
