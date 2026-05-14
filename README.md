@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Prisa Depot<br>🌱 
-
-I’m currently learning Data Science<br>💬 
-
-Ask me about BI and analytics<br>:family: **Padre de Nicolás**
+🔭 I’m currently working on Prisa Depot<br>
+🌱 I’m currently learning Data Science<br>
+💬 Ask me about BI and analytics<br>
+:family: Proud Nicolás' Father
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/daniel-gomez-segovia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dagosegovia) 
