@@ -1,13 +1,18 @@
-# Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on Prisa Depot<br>🌱 
 
-:computer: **Analista de Datos en Prisa Depot**
+I’m currently learning Data Science<br>💬 
 
-:oncoming_automobile: **Fan de los autos y la F1**
+Ask me about BI and analytics<br>:family: **Padre de Nicolás**
 
-:family: **Padre de Nicolás**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/daniel-gomez-segovia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dagosegovia) 
 
-## Vias de Contacto
+## 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[LinkedIn](www.linkedin.com/in/daniel-gomez-segovia)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=danielings25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=danielings25&theme=dark&hide_border=false)<br/>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/danielings25/danielings25)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
