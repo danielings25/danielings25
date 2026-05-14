@@ -5,7 +5,7 @@
 :family: Proud Nicolás' Father
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/daniel-gomez-segovia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dagosegovia) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-gomez-segovia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dagosegovia) 
 
 ## 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
