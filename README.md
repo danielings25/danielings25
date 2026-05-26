@@ -14,4 +14,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=danielings25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=danielings25&theme=dark&hide_border=false)<br/>
 
+## ⚡ Recent Activity:
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
