@@ -11,7 +11,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,4 +20,3 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
           COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-          FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,WatchEvent,ForkEvent
