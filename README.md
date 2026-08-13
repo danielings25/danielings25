@@ -16,10 +16,11 @@
 
 ## ⚡ Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [platzi/curso-entorno-avanzado-ds](https://github.com/platzi/curso-entorno-avanzado-ds)<br>
+1. ⭐ Starred [jvelezmagic/cookiecutter-conda-data-science](https://github.com/jvelezmagic/cookiecutter-conda-data-science)<br>
+2. ⭐ Starred [platzi/curso-entorno-avanzado-ds](https://github.com/platzi/curso-entorno-avanzado-ds)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Wednesday, August 12th, 2026, 12:42:18 PM
+Last Updated: Thursday, August 13th, 2026, 1:01:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
