@@ -17,10 +17,9 @@
 ## ⚡ Recent Activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jvelezmagic/cookiecutter-conda-data-science](https://github.com/jvelezmagic/cookiecutter-conda-data-science)<br>
-2. ⭐ Starred [platzi/curso-entorno-avanzado-ds](https://github.com/platzi/curso-entorno-avanzado-ds)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Sunday, September 6th, 2026, 1:48:03 AM
+Last Updated: Sunday, September 6th, 2026, 2:33:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
