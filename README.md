@@ -16,12 +16,13 @@
 
 ## ⚡ Recent Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danielings25/git-github](https://github.com/danielings25/git-github)<br>
-2. ⭐ Starred [platzi/git-github](https://github.com/platzi/git-github)<br>
-3. ⭐ Starred [jvelezmagic/cookiecutter-conda-data-science](https://github.com/jvelezmagic/cookiecutter-conda-data-science)<br>
+1. ⭐ Starred [platzi/curso-datos-faltantes-imputacion](https://github.com/platzi/curso-datos-faltantes-imputacion)<br>
+2. ⭐ Starred [danielings25/git-github](https://github.com/danielings25/git-github)<br>
+3. ⭐ Starred [platzi/git-github](https://github.com/platzi/git-github)<br>
+4. ⭐ Starred [jvelezmagic/cookiecutter-conda-data-science](https://github.com/jvelezmagic/cookiecutter-conda-data-science)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Friday, September 11th, 2026, 1:57:13 AM
+Last Updated: Friday, September 11th, 2026, 3:27:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
